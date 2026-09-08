@@ -1,5 +1,18 @@
+# Configuración del editor
 .vscode/
+
+# Archivos de entorno y credenciales
 .env
+
+# Archivos de logs y errores
 *.log
+*.err
+
+# Archivos de respaldo temporales
 *.bak
+
+# Archivos de configuración de prácticas o instrucciones
 indicaciones.info
+
+# Sistema operativo (macOS)
+.DS_Store
